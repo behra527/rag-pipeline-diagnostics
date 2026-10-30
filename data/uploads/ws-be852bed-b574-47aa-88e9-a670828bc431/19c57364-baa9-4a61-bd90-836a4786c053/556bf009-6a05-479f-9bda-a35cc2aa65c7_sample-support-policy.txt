@@ -1,0 +1,6 @@
+SAMPLE ONBOARDING DOCUMENT
+This file is an optional labeled sample for product onboarding. It is not hidden production data.
+
+Refunds are issued within 14 days of purchase when the original receipt is provided.
+Shipping is available worldwide except for restricted destinations.
+Office hours are Monday through Friday.
